@@ -1,0 +1,25 @@
+body{
+  background-color: lightgrey;
+}
+
+h2,h4{
+  font-family: "Courier", monospace;
+  font-size: 27px;
+}
+
+#head{
+  font-family: "New Times Roman", serif;
+  font-size: 30px;
+}
+
+#navbarNav{
+  font-size: 17px;
+}
+
+.nav-link{
+  color: white;
+}
+
+.nav-link:hover{
+  color: white;
+}
